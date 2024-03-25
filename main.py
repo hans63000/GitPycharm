@@ -25,6 +25,9 @@ if __name__ == '__main__':
     # adding new item in hotfix
     print_hi('Hello World 5')
 
+    # Updates in local master branch
+    print_hi('Hello World Updates on Local Master Branch')
+
     # Updates on mainbranch of GitHub
     print_hi('Hello World Updates on GitHub')
 
