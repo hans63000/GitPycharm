@@ -25,4 +25,7 @@ if __name__ == '__main__':
     # adding new item in hotfix
     print_hi('Hello World 5')
 
+    # Updates on mainbranch of GitHub
+    print_hi('Hello World Updates on GitHub')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
