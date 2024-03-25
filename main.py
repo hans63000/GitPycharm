@@ -28,7 +28,10 @@ if __name__ == '__main__':
     # Updates in local master branch
     print_hi('Hello World Updates on Local Master Branch')
 
-    # Updates on mainbranch of GitHub
+    # Updates on main branch of GitHub
     print_hi('Hello World Updates on GitHub')
+
+    # Updates on main branch of GitHub
+    print_hi('Hello World Updates 2 on GitHub')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
